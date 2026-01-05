@@ -2,7 +2,7 @@
 
 Aplikasi pengenalan tulisan tangan menggunakan CNN dan OpenCV.
 
-![Screenshot Aplikasi](image_b5a1aa.jpg)
+![Screenshot Aplikasi](github/assets/preview/preview.png)
 
 ## 🚀 Cara Instalasi
 1. Clone repository ini.
