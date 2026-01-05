@@ -1,2 +1,10 @@
-# Word-Detektor-by-Hakoji
-Word Detektor adalah aplikasi pengenalan tulisan tangan (OCR) berbasis Deep Learning yang mampu mendeteksi karakter tunggal dan menyusunnya menjadi kata yang bermakna. Proyek ini menggunakan arsitektur Convolutional Neural Network (CNN) dan teknik Image Processing tingkat lanjut untuk menangani berbagai kondisi gambar.
+# 🖋️ Word Detektor by Hakoji (Handwriting OCR)
+
+Aplikasi pengenalan tulisan tangan menggunakan CNN dan OpenCV.
+
+![Screenshot Aplikasi](image_b5a1aa.jpg)
+
+## 🚀 Cara Instalasi
+1. Clone repository ini.
+2. Install library: `pip install -r requirements.txt`
+3. Jalankan aplikasi: `python app_ocr.py`
