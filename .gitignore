@@ -4,5 +4,3 @@ __pycache__/
 env/
 .vscode/
 .idea/
-# Jika file model .h5 terlalu besar (>100MB), sebaiknya tidak diupload
-# handwriting_cnn_model.h5
