@@ -24,3 +24,6 @@ Aplikasi pengenalan tulisan tangan menggunakan CNN dan OpenCV. 🧠💻
 2. Akurasi mencapai 90% Jika lebih dari 3 huruf
 3. Akurasi mencapai 80% Jika sebuah kata
 4. Akurasi mencapai 70% Jika sebuah kalimat
+
+
+# Author by Ranggi Febrian
