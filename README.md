@@ -14,7 +14,7 @@ Aplikasi pengenalan tulisan tangan menggunakan CNN dan OpenCV. 🧠💻
 2. Install library: `pip install -r requirements.txt`
 3. Jalankan aplikasi: `python app_ocr.py`
 
-## Fitur Utama
+## ✨ Fitur Utama
 1. Upload Gambar: Mendukung format JPG, JPEG, dan PNG melalui fitur search image
 2. Klasifikasi Teks: Mampu mengenali apakah input berupa Huruf Kapital/Lower atau Kalimat
 3. Ekstraksi Kata: Mengenali karakter secara individu maupun merangkumnya menjadi kata/kalimat
