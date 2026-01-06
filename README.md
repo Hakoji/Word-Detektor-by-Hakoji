@@ -12,7 +12,7 @@ Aplikasi pengenalan tulisan tangan menggunakan CNN dan OpenCV. 🧠💻
 # ![Shiori](https://static.wikia.nocookie.net/princess-connect/images/7/77/Shiori_Box_Icon.png/revision/latest/scale-to-width-down/40?cb=20190925113434) Cara Instalasi
 1. Clone atau download repository ini.
 2. Install library: `pip install -r requirements.txt`
-3. Jalankan aplikasi: `python app_ocr.py`
+3. Jalankan aplikasi: `python app_ocr.py` atau langsung mengklik file `app_ocr.py` didalam folder reposity
 
 # ![Nozomi](https://static.wikia.nocookie.net/princess-connect/images/4/46/Nozomi_Box_Icon.png/revision/latest/scale-to-width-down/40?cb=20190925084658) Cara Menggunakan
 1. Setelah aplikasi dijalankan pilih gambar yang ingin di deteksi (Harus 1 folder dengan project si gambar nya)
