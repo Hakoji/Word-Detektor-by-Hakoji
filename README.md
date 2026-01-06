@@ -7,7 +7,8 @@ Aplikasi pengenalan tulisan tangan menggunakan CNN dan OpenCV. 🧠💻
 # ![Maho](https://static.wikia.nocookie.net/princess-connect/images/a/a7/Maho_Box_Icon.png/revision/latest/scale-to-width-down/40?cb=20190925080932) Isi Project
 1. 🐍 app_ocr.py sebagai main program yang akan dijalankan/dipakai
 2. 🏗️ train_model.py sebagai arsitektur CNN serta menggunakan framework TensorFlow, untuk memperbagus akurasi lagi dapat meningkatkan melalui Hyperparameter Tuning, seperti menaikkan jumlah Epoch(bawaan 10) atau menyesuaikan learning rate pada Adam Optimizer
-3. 📁 folder github adalah contoh bahan yang digunakan dan samples nya
+3. 🔠 handwriting_cnn_model.h5 adalah hasil model dari data yang telah dilatih dalam train_model.py
+4. 📁 folder github adalah contoh bahan yang digunakan dan samples nya
 
 # ![Shiori](https://static.wikia.nocookie.net/princess-connect/images/7/77/Shiori_Box_Icon.png/revision/latest/scale-to-width-down/40?cb=20190925113434) Cara Instalasi
 1. Clone atau download repository ini.
