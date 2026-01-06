@@ -31,4 +31,4 @@ Aplikasi pengenalan tulisan tangan menggunakan CNN dan OpenCV. 🧠💻
 4. Akurasi mencapai 70% Jika sebuah kalimat
 
 
-# Author by Ranggi Febrian
+## ![Kyouka](https://static.wikia.nocookie.net/princess-connect/images/3/39/Kyouka_Box_Icon.png/revision/latest/scale-to-width-down/40?cb=20190925113712) Author by Ranggi Febrian
